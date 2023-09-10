@@ -1,0 +1,92 @@
+body{
+    background: linear-gradient(to left, pink,tomato );
+    background-repeat: no-repeat;
+    width:100%;
+    background-attachment: fixed;
+    overflow-x: hidden;
+    margin:0;
+}
+#title{
+    text-align: center;
+    text-shadow: 3px 3px whitesmoke;
+    font-size: 50px;
+    font-style: oblique;
+}
+.main-image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+    height: 500px;
+}
+#text{
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+    color: black;
+    text-shadow: 3px 3px whitesmoke;
+}
+#element{
+    text-align: justify;
+    margin:auto;
+    width:750px;
+    font-size: 23px;
+    font-style: italic;
+    font-family: 'Tektur', cursive;
+}
+#element1{
+    text-align: center;
+    font-size: 20px;
+    font-style: oblique;
+    text-decoration:underline ;
+}
+#text1{
+    font-size: 25px;
+    text-align: justify;
+    margin: auto;
+    width:750px ;
+    font-family: 'Tektur', cursive;
+}
+#text2{
+    text-align: center;
+    font-style: oblique;
+    text-decoration: underline;
+    font-size: 20px;
+}
+#element2{
+    text-align: justify;
+    margin: auto;
+    width:750px ;
+    font-size: 25px;
+    font-family: 'Tektur', cursive;
+}
+#text3{
+    text-align: center;
+    font-style: oblique;
+    text-decoration:underline ;
+    font-size: 20px;
+}
+.images{
+    margin: 40px;
+    height: 300px;
+    width: 400px;
+}
+footer {
+    background: linear-gradient(to left, tomato, purple);
+    color:white;
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+    width:100%;
+    background-attachment: fixed;
+}
+#quote{
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Alkatra', cursive;
+}
+#q{
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Alkatra', cursive;
+}
